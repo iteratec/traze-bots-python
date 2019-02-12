@@ -41,7 +41,7 @@ setup(
 
     install_requires=[
         'python_version>="3.5"',
-        'traze-client==1.3',
+        'traze-client>=1.3,<1.4',
     ],
 
     classifiers=[

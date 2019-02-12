@@ -2,7 +2,9 @@
 A set of bots for 'Traze' using the python client.
 
 # Install
-Load and install [traze-client](https://github.com/iteratec/traze-client-python).
+pip install -e .
+
+(will install [traze-client](https://pypi.org/project/traze-client/))
 
 ## Traze
 Traze is a simple tron-like multi client online game serving as a playground for exploring new technologies.
