@@ -32,8 +32,8 @@ setup(
     description=("A set of bots for 'Traze' using the python client."),
     license="Apache",
     keywords="traze bot",
-    url="https://github.com/iteratec/traze-bots",
-    location="https://github.com/iteratec/traze-bots/python",
+    url="https://github.com/iteratec/traze-bots-python",
+    location="https://github.com/iteratec/traze-bots-python",
     long_description=__readme__(),
 
     packages=find_packages('examples'),
