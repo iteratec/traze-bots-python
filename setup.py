@@ -26,7 +26,7 @@ def __readme__():
 
 setup(
     name='traze-bots-python',
-    version='1.3',
+    version='1.3.2',
     author="Danny Lade",
     author_email="dannylade@gmail.com",
     description=("A set of bots for 'Traze' using the python client."),
@@ -41,7 +41,7 @@ setup(
 
     install_requires=[
         'python_version>="3.5"',
-        'traze-client>=1.3,<1.4',
+        'traze-client>=1.3.2,<1.4',
     ],
 
     classifiers=[
